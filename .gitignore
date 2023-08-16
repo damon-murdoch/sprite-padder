@@ -1,0 +1,9 @@
+# Input folder
+# (exclude placeholder)
+in/*
+!in/input-files-go-here
+
+# Output folder
+# (include placeholder)
+out/*
+!out/output-files-go-here
